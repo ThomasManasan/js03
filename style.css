@@ -1,0 +1,76 @@
+body{
+	
+	text-align:center;
+	  font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+
+	margin-top:10%;
+}
+
+h1,h2,h3,h4,h5,h6, {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h1{
+
+	font-size:40px;
+	margin-bottom:3%;
+}
+
+.search{
+	margin-top:3%;
+}
+
+.list-items{
+
+	margin-top:3%;
+}
+
+.container{
+	text-align:center;
+}
+
+.container-fluid{
+    
+    margin-top: 3%;
+    height: 50%;
+	width: 50%;
+	background-color:lightgray;
+    padding: 20px;
+    border: 2px solid #282828;
+    border-radius: 0px 0px 10px 10px;
+}
+
+
+.git-texts{
+    width: 40%;
+    background-color: lightgray;
+   
+}
+
+
+li{
+    
+    list-style-type: none;
+}
+
+
+.footer{
+    
+   margin-top: 3%;
+   padding: 3% 0;
+   background:#007FFF;
+   color: #ffffff;
+}
+
+.icon1, .icon2, .icon3{
+   
+    color: #fff;
+}
+
+.icon1:hover, .icon2:hover, .icon3:hover{
+     color: #000;
+}
